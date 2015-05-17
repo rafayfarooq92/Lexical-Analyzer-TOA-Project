@@ -1,0 +1,37 @@
+Token: " # "---Keyword
+Token: " include "---Keyword
+Token: " < "---Binary Operator
+Token: " iostream "---Keyword
+Token: " > "---Binary Operator
+Token: " # "---Keyword
+Token: " include "---Keyword
+Token: " < "---Binary Operator
+Token: " conio.h "---Keyword
+Token: " > "---Binary Operator
+Token: " using "---Keyword
+Token: " std "---Keyword
+Token: " ; "---Terminator
+Token: " int "---Keyword
+Token: " main "---Keyword
+Token: " ( "---Open Braces
+Token: " ) "---Close Braces
+Token: " { "---Open Braces
+Token: " cout "---Keyword
+Token: " < "---Binary Operator
+Token: " " "---Identifier
+Token: " World "---Identifier
+Token: " " "---Stream Operator
+Token: " ; "---Terminator
+Token: " if "---Keyword
+Token: " ( "---Open Braces
+Token: " ) "---Close Braces
+Token: " else "---Keyword
+Token: " if "---Keyword
+Token: " ( "---Open Braces
+Token: " ) "---Close Braces
+Token: " do "---Keyword
+Token: " { "---Open Braces
+Token: " } "---Close Braces
+Token: " while "---Keyword
+Token: " ; "---Terminator
+Token: " } "---Close Braces

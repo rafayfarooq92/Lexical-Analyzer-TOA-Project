@@ -1,0 +1,18 @@
+This is the Documentation of Lexical Analyser and Compiler Construction Code.
+This is a very basic compiler which ensures tokenization and check basic syntax of the
+Code.
+The Construction is Divided into Two Parts
+i) Lexical Analyzer
+ii) Syntax Analyzer or Parser
+How to use the Code:-
+i)In order to check any program syntax you must have to first write it on the file named
+as "PutYourCode.txt". 
+ii)After putting your code save it and run the .exe of two codes i.e "Code Conversion" and
+"Lexical Analyzer".
+iii)The Lexical Analyzer took your code make and convert it to tokens. Check the "Token.txt"
+file to check the tokens of your code.
+iv) Next run the .exe of Syntax Checker. It will tell you the error if any on three parts
+	a)Libraries which are included are correct
+	b)Using namespace std is correctly written
+	c)main is propely included
+	d)Paranthesis are matched
